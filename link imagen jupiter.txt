@@ -1,0 +1,1 @@
+https://quarto.org/images/demo-jupyter-plain.png

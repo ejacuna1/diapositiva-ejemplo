@@ -1,0 +1,184 @@
+18:59:09 From Jhon muñuico to Everyone:
+	Buenas tardes
+18:59:35 From masterX Academy to Everyone:
+	Buenas noches!
+19:01:53 From Luis Pollack to Everyone:
+	Buenas tardes.
+19:04:28 From Edouard Acuña Kohnenkamp to Everyone:
+	buenas noches
+19:04:55 From Juan Ignacio Martínez to Everyone:
+	Buenas Noches...
+19:05:10 From Gabriel Sulca to Everyone:
+	Buenas tardes
+19:05:13 From Juan Ignacio Martínez to Everyone:
+	Buenas Tardes, Perfecto.
+19:05:14 From Johan to Everyone:
+	Buenas tardes
+19:05:19 From Nice Abigail Huaman to Everyone:
+	Buenas tardes
+19:05:22 From Luis Pollack to Everyone:
+	si
+19:10:00 From Luis Pollack to Everyone:
+	yo no pude
+19:10:02 From Juan Ignacio Martínez to Everyone:
+	En mi caso, no lo he podido hacer, todavía estoy atrasado con las clases
+19:10:24 From Ramiro Gómez Herrera to Everyone:
+	Yo tampoco lo he subido.
+19:10:34 From Juan Ignacio Martínez to Everyone:
+	Todavía estoy haciendo las clases iniciales, por ingresar tarde.
+19:11:14 From Ramiro Gómez Herrera to Everyone:
+	Disculpe ¿ Que debe tener específicamente el repositorio?
+19:15:38 From Ramiro Gómez Herrera to Everyone:
+	Gracias.
+19:17:00 From Ramiro Gómez Herrera to Everyone:
+	Confirmo
+19:17:01 From Gabriel Sulca to Everyone:
+	listo
+19:17:10 From Johan to Everyone:
+	Listo
+19:17:12 From Jhon W. Muñuico to Everyone:
+	listo
+19:17:14 From Nice Abigail Huaman to Everyone:
+	Confirmo
+19:17:16 From Juan Ignacio Martínez to Everyone:
+	Llego perfecto, el archivo. Listo.
+19:20:22 From Jhon muñuico to Everyone:
+	Eliminado
+19:21:01 From Ramiro Gómez Herrera to Everyone:
+	Listo
+19:21:08 From Johan to Everyone:
+	Listo
+19:22:24 From Gabriel Sulca to Everyone:
+	lsito
+19:25:18 From Ramiro Gómez Herrera to Everyone:
+	Me lanzó ejecución interrumpida
+19:27:12 From masterX Academy to Everyone:
+	install.packages("leaflet")
+19:27:26 From masterX Academy to Everyone:
+	install.packages("plotly")
+19:31:56 From Ramiro Gómez Herrera to Everyone:
+	Profe revise el WhatsApp
+19:33:32 From masterX Academy to Everyone:
+	install.packages('leaflet')
+19:34:25 From Ramiro Gómez Herrera to Everyone:
+	Si, primero lo instalé y me lanzó lo mismo que Plotly
+19:34:52 From masterX Academy to Everyone:
+	install.packages("plotly")	install.packages("leaflet")
+19:36:08 From Luis Pollack to Everyone:
+	ya instale los dos paquetes
+19:36:26 From Ramiro Gómez Herrera to Everyone:
+	No lanza lo mismo.
+19:41:59 From Luis Pollack to Everyone:
+	si se instalo
+19:42:03 From Ramiro Gómez Herrera to Everyone:
+	No, me lanza lo mismo. Si es problema de mi pc
+19:42:12 From Jhon W. Muñuico to Everyone:
+	confirmo instalacion
+19:43:04 From masterX Academy to Everyone:
+	install.packages("remotes", repos = NULL, type="source")
+19:43:18 From Ramiro Gómez Herrera to Everyone:
+	Me lo puede enviar por WhatsApp
+19:43:59 From Luis Pollack to Everyone:
+	en mi caso yo reinicie la laptop
+19:48:26 From masterX Academy to Everyone:
+	remotes::install_github('rstudio/leaflet')
+19:52:54 From Jhon W. Muñuico to Everyone:
+	confirmo
+20:19:48 From masterX Academy to Everyone:
+	demo-jupyter-plain.png (1160×1306) (quarto.org)
+20:25:51 From Jhon muñuico to Everyone:
+	Confirmo
+20:25:55 From Gabriel Sulca to Everyone:
+	confirmo
+20:37:08 From Luis Pollack to Everyone:
+	porque primero se coloca el final
+20:41:05 From Jhon muñuico to Everyone:
+	Echo True
+20:41:10 From Ramiro Gómez Herrera to Everyone:
+	Del código sería entonces echo true, eval false
+20:48:08 From Ramiro Gómez Herrera to Everyone:
+	Aparece Plato, de donde estoy jaja
+20:49:01 From Ramiro Gómez Herrera to Everyone:
+	En el mapa
+20:49:22 From Ramiro Gómez Herrera to Everyone:
+	Si, Colombia, Magdalena
+20:56:25 From Luis Pollack to Everyone:
+	se le puede agregar un video o un sonido
+20:57:49 From Margaret Quispe to Everyone:
+	imágenes con movimiento se podría agregar? (gif)
+21:03:13 From masterX Academy to Everyone:
+	parrot-party.gif (220×290) (tenor.com)
+21:05:02 From masterX Academy to Everyone:
+	## Crazzy parrot		![Loro loco](https://media.tenor.com/x-kqDAmw2NQAAAAM/parrot-party.gif)
+21:18:47 From Gabriel Sulca to Everyone:
+	git status
+21:18:51 From Jesus Miranda to Everyone:
+	git add .
+21:18:59 From Ramiro Gómez Herrera to Everyone:
+	Add
+21:26:13 From Ramiro Gómez Herrera to Everyone:
+	Profesor, a mi me aparece el nombre pero una x al lado.
+21:26:34 From Johan to Everyone:
+	si, a mi tambien
+21:26:38 From Jhon muñuico to Everyone:
+	Con una x profe
+21:26:43 From Nice Abigail Huaman to Everyone:
+	Igual
+21:29:09 From Ramiro Gómez Herrera to Everyone:
+	Aún aparece la X
+21:29:15 From Gabriel Sulca to Everyone:
+	sigue con la X
+21:30:13 From masterX Academy to Everyone:
+	touch .nojekyll
+21:32:31 From Ramiro Gómez Herrera to Everyone:
+	Dice que no se reconoce como un comando interno o externo.
+21:33:04 From Jhon muñuico to Everyone:
+	Igual q a Ramiro
+21:33:05 From Johan to Everyone:
+	si, lo creó
+21:33:40 From Ramiro Gómez Herrera to Everyone:
+	Volví a escribir y no me mostró el mensaje anterior
+21:35:34 From Jhon muñuico to Everyone:
+	Command promopt
+21:37:04 From Jhon muñuico to Everyone:
+	Me sigue saliendo q no reconoce el comando
+21:39:11 From Jhon muñuico to Everyone:
+	Si estoy
+21:41:01 From Ramiro Gómez Herrera to Everyone:
+	¿Siempre se tendrá que crear ese documento?
+21:42:57 From Ramiro Gómez Herrera to Everyone:
+	Me aparece en el nuevo documento que envié, y me aparece la página web.
+21:43:36 From Ramiro Gómez Herrera to Everyone:
+	Si
+21:43:38 From Jhon muñuico to Everyone:
+	Confirmo el check
+21:51:04 From masterX Academy to Everyone:
+	https://github.com/sagesteppe/Spatial_Data_Science_R/tree/main
+21:51:10 From masterX Academy to Everyone:
+	https://github.com/Changchao-Li/Microbial_ecology_under_increasing_salinity/tree/master
+21:51:20 From masterX Academy to Everyone:
+	https://onlinelibrary.wiley.com/doi/10.1002/imt2.79
+22:00:33 From Gabriel Sulca to Everyone:
+	listo
+22:00:44 From Jhon muñuico to Everyone:
+	Se clonó correctamente
+22:00:48 From Ramiro Gómez Herrera to Everyone:
+	Estoy teniendo problemas con mi terminal de Windows, no me aparece.
+22:00:54 From masterX Academy to Everyone:
+	git clone https://github.com/Changchao-Li/Microbial_ecology_under_increasing_salinity.git
+22:00:54 From Johan to Everyone:
+	a mi me aparece un error
+22:01:13 From Johan to Everyone:
+	si
+22:14:18 From masterX Academy to Everyone:
+	sagesteppe/Spatial_Data_Science_R: R4DS Spatial Lecture materials for Northwestern University (github.com)
+22:25:01 From Johan to Everyone:
+	Lo tengo instalado
+22:25:07 From Johan to Everyone:
+	voy a intentarlo
+22:25:08 From Ramiro Gómez Herrera to Everyone:
+	Pero los clones se guardan donde?
+22:25:28 From Ramiro Gómez Herrera to Everyone:
+	A mi tampoco me funcionó el terminal
+22:29:47 From masterX Academy to Everyone:
+	UBCBio525/Bio525D: A short course on Bioinformatics for Evolutionary Biology (github.com)
