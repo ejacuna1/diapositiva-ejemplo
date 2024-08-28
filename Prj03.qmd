@@ -3,7 +3,11 @@ title: "Prj03_Quarto_Diapo"
 format: revealjs
 editor: visual
 ---
-
+##codigos para subir a git en terminal, para llevar a repositorio local
+##posicionarse en carpeta de proyecto
+#git add .
+#git status
+#git commit -m "primer commit"
 
 install.packages("plotly")
 install.packages("leaflet")
