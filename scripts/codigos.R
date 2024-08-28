@@ -1,2 +1,2 @@
 #ejemplo de codigo
-1+1
+rnorm(100)
