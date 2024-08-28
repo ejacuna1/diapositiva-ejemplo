@@ -8,7 +8,7 @@ editor: visual
 #git add .
 #git status
 #git commit -m "primer commit"
-
+ 
 install.packages("plotly")
 install.packages("leaflet")
 

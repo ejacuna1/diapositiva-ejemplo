@@ -4,7 +4,7 @@ author: "Edouard Acuña"
 format: 
     revealjs:
       incremental: true
-      theme: night
+      theme: league
 editor: visual
 ---
 
