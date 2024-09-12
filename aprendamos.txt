@@ -1,19 +1,18 @@
 ---
 title: "Aprendamos un poco más de RevealJS"
-author: "Edouard Acuña K."
+author: "Irwing S. Saldaña"
 format: 
   revealjs:
     theme: simple
     slide-number: true
     incremental: true
-    transition: slide
+    transition: convex
     transition-speed: slow
     code-overlays: true
     width: 1280
     height: 720
-    scrollable: true
 title-slide-attributes:
-  data-background-image: "exports/figs/fondos.jpeg"
+  data-background-image: "https://image.slidesdocs.com/responsive-images/background/blue-abstract-texture-polygon-technology-nature-powerpoint-background_94e8175035__960_540.jpg"
   data-background-size: cover
   data-background-opacity: "1"   
 ---
@@ -58,16 +57,14 @@ Aquí hay un top secret.
 
 ## Imagen desde la Web
 
-![TEXTO ALTERNATIVO](EXPORTS/FIGS/PECES_FIGURA_2.png)
-
-![Quarto Logo](https://quarto.org/images/demo-jupyter-plain.png)
+![Quarto Logo](https://quarto.org/img/quarto-logo.png)
 
 
 
 ## Colocar un gran texto que nunca se desborda
 
 ::: {.r-fit-text}
-masterX!!!!!
+masterX
 :::
 
 ## Añadiendo fragmentos 
@@ -226,7 +223,5 @@ fig
 
 ```
 
-## Crazy parrot
 
-![loro loco](https://media.tenor.com/JjjpyUiWodkAAAAi/hola-loro.gif)
 
