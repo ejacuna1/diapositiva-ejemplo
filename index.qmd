@@ -1,5 +1,5 @@
 ---
-title: "Aprendamos un poco más de RevealJS"
+title: "Aprendiendo RevealJS"
 author: "Edouard Acuña K."
 format: 
   revealjs:
